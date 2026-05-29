@@ -1,4 +1,4 @@
-quero subir esse readme no git # 📊 Análise de Resíduos Sólidos no Brasil
+ # 📊 Análise de Resíduos Sólidos no Brasil
 
 Este projeto tem como objetivo analisar dados públicos sobre a gestão de resíduos sólidos nos municípios brasileiros, utilizando Python e ferramentas de análise de dados.
 
